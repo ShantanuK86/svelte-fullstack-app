@@ -15,7 +15,10 @@ Thumbs.db
 .env.*
 !.env.example
 !.env.test
+.env.development.local
 
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+.vercel
